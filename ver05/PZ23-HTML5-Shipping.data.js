@@ -173,6 +173,6 @@ Module['FS_createPath']('/PZ23/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 81, "filename": "/UE4CommandLine.txt"}, {"start": 81, "audio": 0, "end": 21284399, "filename": "/PZ23/Content/Paks/PZ23-HTML5.pak"}], "remote_package_size": 21284399, "package_uuid": "6fb10525-ca47-4086-85a3-0232c54ebf30"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 81, "filename": "/UE4CommandLine.txt"}, {"start": 81, "audio": 0, "end": 21294943, "filename": "/PZ23/Content/Paks/PZ23-HTML5.pak"}], "remote_package_size": 21294943, "package_uuid": "febd0558-b5e4-4470-b609-f858eaf626f4"});
 
 })();
